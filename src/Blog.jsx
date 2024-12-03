@@ -4,7 +4,7 @@ import Sidebar from './Sidebar';
 
 const Blog = () => {
     const post = {
-      title: "Top family Car Collection Blog",
+      title: "Top Family Cat Collection Blog",
       date: "March 15, 2024",
       author: "Thanak Mech",
       readTime: "5 min read",
